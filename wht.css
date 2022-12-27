@@ -51,7 +51,7 @@ li a {
   }
   .card-image {
     grid-area: image;
-    background-image: url("entr.jfif");
+    background:url("entr.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -85,7 +85,7 @@ li a {
   }
   .card-image1 {
     grid-area: image;
-    background: url("invo.jfif");
+    background: <img src="invo.jfif" />;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
