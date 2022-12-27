@@ -51,7 +51,7 @@ li a {
   }
   .card-image {
     grid-area: image;
-    background: url("image/entr.jfif");
+    background: url("entr.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -85,7 +85,7 @@ li a {
   }
   .card-image1 {
     grid-area: image;
-    background: url("image/invo.jfif");
+    background: url("invo.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -94,7 +94,7 @@ li a {
   }
   .card-image2 {
     grid-area: image;
-    background: url("image/mng.jfif");
+    background: url("mng.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -103,7 +103,7 @@ li a {
   }
   .card-image3 {
     grid-area: image;
-    background: url("image/code.jfif");
+    background: url("code.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -112,7 +112,7 @@ li a {
   }
   .card-image4 {
     grid-area: image;
-    background: url("image/test.jfif");
+    background: url("test.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -121,7 +121,7 @@ li a {
   }
   .card-image5 {
     grid-area: image;
-    background: url("image/deploy.jfif");
+    background: url("deploy.jfif");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
